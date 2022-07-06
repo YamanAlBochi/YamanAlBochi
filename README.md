@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working in Tech
-- 🌱 I’m currently learning Machine Learning And Deep Learning
+- 🌱 I’m currently learning Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about anything
