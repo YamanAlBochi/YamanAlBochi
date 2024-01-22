@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaman</h1>
+<h1 align="center">Hi 👋, I'm Al Bochi</h1>
 <h3 align="center">Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamanalbochi&label=Profile%20views&color=0e75b6&style=flat" alt="yamanalbochi" /> </p>
