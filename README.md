@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Data Science and ML Projects**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **Data**
 
 - 💬 Ask me about **anything**
 
