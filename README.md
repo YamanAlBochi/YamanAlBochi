@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working in **Tech**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **I'm learning to integrate AI into DevOps for automated deployment, resource optimization, and improved system performance.**
 
-- 👯 I’m looking to collaborate on **Data Science and ML Projects**
+- 👯 I’m looking to collaborate on **development/cloud projects**
 
-- 🤝 I’m looking for help with **Data**
+- 🤝 I’m looking for help with **learning French**
 
 - 💬 Ask me about **anything**
 
