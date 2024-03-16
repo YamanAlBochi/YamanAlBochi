@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **I'm learning to integrate AI into DevOps for automated deployment, resource optimization, and improved system performance.**
 
-- 👯 I’m looking to collaborate on **development/cloud projects**
+- 👯 I’m looking to collaborate on **Development/Cloud projects**
 
 - 🤝 I’m looking for help with **learning French**
 
