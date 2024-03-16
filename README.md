@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaman Al Bochi</h1>
-<h3 align="center">DevOps and CLoud Engineer</h3>
+<h3 align="center">DevOps and Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamanalbochi&label=Profile%20views&color=0e75b6&style=flat" alt="yamanalbochi" /> </p>
 
