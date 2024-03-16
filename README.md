@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Tech**
 
-- 🌱 I’m currently learning **I'm learning to integrate AI into DevOps for automated deployment, resource optimization, and improved system performance.**
+- 🌱 I’m currently learning **to integrate AI into DevOps for automated deployment, resource optimization, and improved system performance.**
 
 - 👯 I’m looking to collaborate on **Development/Cloud projects**
 
