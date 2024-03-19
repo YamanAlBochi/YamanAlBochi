@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **in Tech and IT**
 
-- 🌱 I’m currently learning **automating my with AI and Java**
+- 🌱 I’m currently learning **to automate my work with AI**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
